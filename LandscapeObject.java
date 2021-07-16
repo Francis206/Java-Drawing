@@ -14,9 +14,6 @@ import java.awt.Graphics2D;
  * LandscapeObjectSubClass o1 = new LandscapeObjectSubClass(args);
  * o1.draw();
  * 
- * @author Jeffrey L Light
- * @version 1.0
- * @since 2019-11-26
  */
 public abstract class LandscapeObject {
 	//Attributes
