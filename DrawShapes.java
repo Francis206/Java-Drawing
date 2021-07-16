@@ -6,12 +6,6 @@ import javax.swing.JPanel;
 
 /**
  * Main class used to run a DrawShapes program.
- * 
- * @author Jared N. Plumb
- * @version 1.0
- * @since 2019-11-26
- * @Minor modifications by Jeff Light
- * @since 2019-12-01
  */
 public class DrawShapes extends JPanel {
 	//Attributes
