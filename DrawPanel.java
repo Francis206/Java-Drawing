@@ -13,12 +13,6 @@ import java.awt.geom.*;
 
 /**
  * Class used to create a DrawPanel where shapes will be drawn by the programmer (via code).
- * 
- * @author Jared N. Plumb
- * @version 1.0
- * @since 2019-11-26
- * @Minor modifications by Jeff Light
- * @since 2019-12-01
  */
 public class DrawPanel extends JPanel {
 	//Attributes
