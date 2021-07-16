@@ -14,11 +14,7 @@ import java.awt.Graphics2D;
  * When creating a Tree object in the DrawPanel.paintComponent(Graphics) method, usually the following syntax is used.
  * 
  * Tree t1 = new Tree(args);
- * t1.draw();
- * 
- * @author Jeffrey L Light
- * @version 1.0
- * @since 2019-11-26
+ * t1.draw()
  */
 public class Tree extends LandscapeObject{
 	//Attributes
